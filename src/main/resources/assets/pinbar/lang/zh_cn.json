@@ -1,0 +1,6 @@
+{
+	"pinbar.pin.set": "已标记坐标 %s, %s, %s",
+	"pinbar.pin.other_dimension": "已标记在 %s —— 进入该维度后才会显示",
+	"pinbar.pin.arrived": "已到达标记点，标记已取消",
+	"pinbar.command.expected_coordinate": "需要一个坐标（数字或 ~）"
+}

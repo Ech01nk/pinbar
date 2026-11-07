@@ -1,0 +1,6 @@
+{
+	"pinbar.pin.set": "Pinned at %s, %s, %s",
+	"pinbar.pin.other_dimension": "Pinned in %s — it will appear when you are in that dimension",
+	"pinbar.pin.arrived": "Pin reached — marker cleared",
+	"pinbar.command.expected_coordinate": "Expected a coordinate (number or ~)"
+}

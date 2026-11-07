@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "pinbar",
+	"version": "${version}",
+	"name": "Pinbar",
+	"description": "Pin a coordinate to the vanilla locator bar. Client-side only, single pin, not persisted.",
+	"authors": [
+		"Pinbar contributors"
+	],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.pinbar.PinbarClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
